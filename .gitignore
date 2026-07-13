@@ -1,0 +1,19 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# FiveM cache folders (念のため)
+cache/
+server-cache/
+server-cache-priv/
+
+# VSCode / Editor settings
+.vscode/
+*.code-workspace
+
+# Backup files
+*.bak
+*.tmp
