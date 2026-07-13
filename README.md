@@ -1,6 +1,6 @@
 ---
 
-# 🧹 FiveM Cache Cleaner — ReadMe
+# 🧹 FiveM Cache Cleaner 
 
 FiveM のキャッシュフォルダを安全に削除し、  
 必要に応じて FiveM を自動起動するためのバッチツールです。
